@@ -12,7 +12,7 @@ namespace TCPP_Harmider_MainProject
              Console.WriteLine("Hello Браузер");
              Console.WriteLine("Hello Браузер");
              Console.WriteLine("Hello Браузер");
-             Console.WriteLine("Hello Браузер");
+            
         }
         
     }
