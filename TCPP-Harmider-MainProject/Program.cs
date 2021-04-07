@@ -9,8 +9,8 @@ namespace TCPP_Harmider_MainProject
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Worooooooold!");
             Console.WriteLine("Hello World22222222222!");
-            
-            
+            Console.WriteLine("Hello World  IDE!");
+
         }
         
     }
