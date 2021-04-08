@@ -6,7 +6,7 @@ namespace TCPP_Harmider_MainProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World from IDE!");
             Console.WriteLine("Hello Worooooooold!");
             Console.WriteLine("Hello World22222222222!");
             
